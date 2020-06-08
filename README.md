@@ -3,7 +3,6 @@
 " target="_blank">
   <img src="https://aka.ms/deploytoazurebutton"/>
 </a>
-
 <a href="http://armviz.io/#/?load=https://raw.githubusercontent.com/shachafc/Azure-Research-Lab/master/template.json" target="_blank">
     <img src="http://armviz.io/visualizebutton.png"/>
 </a>
