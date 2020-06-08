@@ -150,7 +150,9 @@
                         "createOption": "FromImage",
                         "caching": "ReadWrite",
                         "managedDisk": {
-                            "storageAccountType": "Premium_LRS",                        },
+                            "storageAccountType": "Premium_LRS",
+                            "id": "[resourceId('Microsoft.Compute/disks', concat(parameters('virtualMachines_Lab01_name')))]"
+                        },
                         "diskSizeGB": 128
                     },
                     "dataDisks": []
