@@ -1,11 +1,8 @@
 # Azure-Research-Lab
 
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/shachafc/Azure-Research-Lab/master/template.json" target="_blank">
-  <img src="https://aka.ms/deploytoazurebutton"/>
-</a>
-
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/shachafc/Azure-Research-Lab/master/template.json) 
 <a href="http://armviz.io/#/?load=https://raw.githubusercontent.com/shachafc/Azure-Research-Lab/master/template.json" target="_blank">
-  <img src="http://armviz.io/visualizebutton.png"/>
+    <img src="http://armviz.io/visualizebutton.png"/>
 </a>
 
 
