@@ -158,8 +158,8 @@
                 },
                 "osProfile": {
                     "computerName": "[parameters('virtualMachines_Lab01_name')]",
-                    "adminUsername": "AzureUser",
-                    "adminPassword": "AzurePassword#1",
+                    "adminUsername": "[parameters('adminUsername')]",
+                    "adminPassword": "[parameters('adminPassword')]"
                     "windowsConfiguration": {
                         "provisionVMAgent": true,
                         "enableAutomaticUpdates": true
