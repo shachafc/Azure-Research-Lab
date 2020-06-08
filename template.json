@@ -151,7 +151,7 @@
                         "caching": "ReadWrite",
                         "managedDisk": {
                             "storageAccountType": "Premium_LRS",
-                            "id": "[resourceId('Microsoft.Compute/disks', concat(parameters('virtualMachines_Lab01_name')))]"
+                            "id": "[resourceId('Microsoft.Compute/disks', concat(parameters('virtualMachines_Lab01_name'), '_OsDisk_1_d750f60dcc414db4af628c4036ba5f72'))]"
                         },
                         "diskSizeGB": 128
                     },
