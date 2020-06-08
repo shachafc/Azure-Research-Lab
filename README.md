@@ -1,6 +1,6 @@
 # Azure-Research-Lab
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https://github.com/shachafc/Azure-Research-Lab/blob/master/template.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/shachafc/Azure-Research-Lab/master/template.json)
 
 Azure Research labs:
 Will Create on Azure the following:
