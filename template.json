@@ -159,6 +159,7 @@
                 "osProfile": {
                     "computerName": "[parameters('virtualMachines_Lab01_name')]",
                     "adminUsername": "shahafc",
+                    "adminPassword": "shahafcohen#1"
                     "windowsConfiguration": {
                         "provisionVMAgent": true,
                         "enableAutomaticUpdates": true
