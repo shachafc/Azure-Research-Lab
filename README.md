@@ -1,5 +1,7 @@
 # Azure-Research-Lab
 
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https://github.com/shachafc/Azure-Research-Lab/blob/master/template.json)
+
 Azure Research labs:
 Will Create on Azure the following:
 
@@ -7,3 +9,5 @@ Will Create on Azure the following:
 2. NSG
 3. VNet + Default Subnet
 4. Storage Account
+
+
