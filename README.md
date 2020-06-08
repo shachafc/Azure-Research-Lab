@@ -1,6 +1,6 @@
 # Azure-Research-Lab
 
-[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://deploy.azure.com/?repository=https://raw.githubusercontent.com/shachafc/Azure-Research-Lab/master/template.json) 
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://deploy.azure.com/?repository=https://github.com/shachafc/Azure-Research-Lab/blob/master/template.json) 
 <a href="http://armviz.io/#/?load=https://raw.githubusercontent.com/shachafc/Azure-Research-Lab/master/template.json" target="_blank">
     <img src="http://armviz.io/visualizebutton.png"/>
 </a>
